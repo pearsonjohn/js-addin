@@ -1,0 +1,3 @@
+Source moved here:
+
+https://bitbucket.org/megaboich/jsparser
