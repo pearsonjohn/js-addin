@@ -27,3 +27,10 @@ var model = @Html.Raw(JsonConvert.SerializeObject(Model));
         }
 }}}
   * Fixed wrong parsing of `<script type='non-javascript'>` blocks. This blocks will be ignored.
+{{{
+<script type="text/html-template" id="template1">
+    <div class="container" style="position:relative;">
+       ...
+    </div>
+</script>
+}}}
