@@ -1,4 +1,4 @@
-#VS2012 and VS2010 themes support.
+#summary VS2012 and VS2010 themes support.
 =VS2012 and VS2010 themes support=
 
 ==Visual Studio 2012==
