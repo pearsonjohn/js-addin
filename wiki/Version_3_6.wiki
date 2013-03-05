@@ -1,6 +1,6 @@
 #summary Javascript Parser Version 3.6 Changes List
 
-= Version 3.6  =
+= Version 3.6 (RC) =
 ==Improvements==
   * Enhanced support of Asp.Net <% %> markup in javascript. This blocks will be processed at parsing time via regular expressions and replaced to correct javascript string literals.
   * Added simple fix for Razor syntax in `*.cshtml files`. "@" symbol will be removed from code at parsing time. This will allow to remove unwanted javascript errors in constructions like this:
