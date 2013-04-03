@@ -10,6 +10,7 @@ var model = @Html.Raw(JsonConvert.SerializeObject(Model));
   * Support of VS2010 and VS2012 color themes. [VisualStudioThemesSupport Read more about Visual studio themes support].
   * Errors notification popup bar in VS2010 and VS2012. This bar will appear automatically if JSParser find any errors in file. This bar will appear even if JSParser tool window is not opened.
   [https://bytebucket.org/megaboich/jsparser/wiki/images/error_bar.png]  
+  * Improved search engine, now it works more like VS autocomplete.
 
 ==Bug fixes==
   * Fixed issue with `<script></script>` blocks in js files. Introduced new setting that will disable processing of `<script></script>` blocks in js files.
