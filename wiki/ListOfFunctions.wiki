@@ -39,5 +39,5 @@
   http://js-addin.googlecode.com/svn/site/screen_define_shortcut.png
 
  ===Show parameters in function chain===
- Usable for when anonymous function is attached by jQuery.
+ Usable when anonymous function is attached by jQuery.
   http://js-addin.googlecode.com/svn/site/DisplayParametersInFunctionChain.png
