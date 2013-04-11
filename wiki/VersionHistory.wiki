@@ -1,7 +1,7 @@
 #summary Version History of Javascript Parser addin.
 #labels Featured
 
-=== 3.6 Release candidate http://js-addin.googlecode.com/svn/site/hot.gif ===
+=== 3.6 Release http://js-addin.googlecode.com/svn/site/hot.gif ===
   [Version_3_6 Read more about changes in Version 3.6]
 
 
