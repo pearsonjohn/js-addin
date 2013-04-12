@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <Version>
-	3.5
+	3.6
 	<ReleaseInfo version="3">
 		<info text="Version 3" />
 		<info text="	+ Find functionality" />
@@ -42,5 +42,14 @@
   <ReleaseInfo version="3.5">
     <info text="Version 3.5" />
     <info text="	+ Fixed version-checking error." />
+  </ReleaseInfo>
+  <ReleaseInfo version="3.6">
+    <info text="Version 3.6" />
+    <info text="	+ Enhanced support of inlined javascript in Asp.Net and Razor markup." />
+    <info text="	+ Support of VS2010 and VS2012 color themes." />
+    <info text="	+ Improved search engine, now it works more like VS autocomplete." />   
+    <info text="	+ Errors notification popup bar in VS2010 and VS2012." />
+    <info text="	+ Bug fixes." />
+    <info text="	- Remove custom implementation for checking of new versions, let Visual Studio to deal with it." />
   </ReleaseInfo>
 </Version>
