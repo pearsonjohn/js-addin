@@ -1,7 +1,6 @@
 #summary Version History of Javascript Parser addin.
 #labels Featured
 
-
 === 3.7 Release http://js-addin.googlecode.com/svn/site/hot.gif ===
   # Added setting not to show error on debugger keyword
   # Added option to ignore code between *jsparser:off* and *jsparser:on* statements
@@ -9,10 +8,7 @@
   # Fix  Issue 36: using AJAX Toolkit ScriptManager causes false positives
   # Settings UI improved
 
-
-=== 3.6 Release ===
-  [Version_3_6 Read more about changes in Version 3.6]
-
+=== [Version_3_6 3.6 Release] ===
 
 === 3.5 Release ===
   # Improved parser logic.
