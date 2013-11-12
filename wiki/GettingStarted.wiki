@@ -7,5 +7,5 @@ To start using *Javascript Parser Extension* follow steps:
     * VS2008: Unzip pack and copy contents to "<%userdocuments%>\Visual Studio 2008\!AddIns" folder. More instructions inside package.
   # Restart Visual Studio.
   # Click the item in the menu to show tool window. Menu location: "View > Other Windows > Javascript Parser"
-    https://bytebucket.org/megaboich/jsparser/wiki/image/menu_location.png
+    https://bytebucket.org/megaboich/jsparser/wiki/images/menu_location.png
   # Discover [ListOfFunctions List Of Functions] and enjoy.
